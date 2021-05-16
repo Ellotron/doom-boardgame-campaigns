@@ -37,8 +37,6 @@ Marine charlie is actually also a semi-Possessed Soldier. He will attack the mar
 
 ## 3. Auxillary Translocation Pod
 
-### On entry
-
 Place one Pinky and one Cacodemon adding initiative cards if necessary.
 
 > A flash of glowing red light fills your retinas. When they finally recover two glowing embers remain. Two burning eyes in a snarling skull that lunges towards you. Above it floats something much, much worse.
@@ -51,8 +49,17 @@ Place 4 Possessed Soldiers in squares adjacent to A.
 
 Place two Imps in any location in the room.
 
-## 5. Armoury 
+## 5. Armoury
 
-> The Armoury is a dead end apart from a smallish service duct funelling in the sound of a faulty air circulator. Along the walls are rows of empty gun racks. Either this facility is severely understocked or somebody went full rambo in here. A med pack a pack of grenades and a solitary static rifle remain. The door let's out a worrying groan as it shuts behind you but more worrying is that "faulty fan" noise seems to be getting closer. 
+Close the door. Place the static rifle, grenade and med pack. The Marine player can choose to swap a weapon for the static rifle. The demon player can now choose whether or not the armoury door opens when a player attempts to use it. If not it still costs a movement point.
 
-Close the door. The demon player can now choose whether or not the armoury door opens when a player attempts to use it. If not it still costs a movement point.
+> The Armoury is a dead end apart from a smallish service duct funnelling in the sound of a faulty air circulator. Along the walls are rows of empty gun racks. Either this facility is severely under-stocked or somebody went full Rambo in here. A med pack a pack of grenades and a solitary static rifle remain. The door let's out a worrying groan as it shuts behind you but more worrying is that "faulty fan" noise seems to be getting closer.
+
+## 6. Service Ducts
+
+> The duct crackles with electricity. Clearly the backup power system was installed hastily and against UAC procedures. Whilst the flashes occasionally light the way one wrong move is going to result in a nasty jolt. Whats more you start to think you're not the only one in here...
+
+Once per marine and per entry to the ducts the demon player decides if and when the following happen:
+
+- Two Imps appear in the ducts
+- The Marine player becomes stunned by electric
