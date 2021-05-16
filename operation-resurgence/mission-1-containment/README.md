@@ -9,6 +9,10 @@
 - Destroy or disable the communication
 - Detain any site personnel
 
+## Gear
+
+It is recommended that the Marines start with the Static Rifle, Combat Shotgun, Plasma Rifle and Burst Rifle, with Fire Support and Stealth Operative class cards.
+
 ## Layout - not known by the marines
 
 ![Map](./map.jpg)
@@ -51,9 +55,9 @@ The first Marine in the room suffers 3 damage from falling rubble. Place two Imp
 
 ## 5. Armoury
 
-> The Armoury is a dead end apart from a smallish service duct funnelling in the sound of a faulty air circulator. Along the walls are rows of empty gun racks. Either this facility is severely under-stocked or somebody went full Rambo in here. A med-pack, a pack of grenades and a solitary static rifle remain. The door lets out a worrying groan as it shuts behind you, but more worrying is that "faulty fan" noise seems to be getting closer.
+> The Armoury is a dead end apart from a smallish service duct funnelling in the sound of a faulty air circulator. Along the walls are rows of empty gun racks. Either this facility is severely under-stocked or somebody went full Rambo in here. A med-pack, a pack of grenades and a solitary heavy assaily rifle remain. The door lets out a worrying groan as it shuts behind you, but more worrying is that "faulty fan" noise seems to be getting closer.
 
-Close the door. Place the static rifle, grenade and med pack. The Marine player can choose to swap a weapon for the static rifle. The demon player can now choose whether or not the armoury door opens when a player attempts to use it. If not it still costs a movement point.
+Close the door. Place the assault rifle, grenade and med pack. The Marine player can choose to swap a weapon for the assualt rifle. The demon player can now choose whether or not the armoury door opens when a player attempts to use it. If not it still costs a movement point.
 
 ## 6. Service Ducts
 
