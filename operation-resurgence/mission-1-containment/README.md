@@ -29,7 +29,7 @@ Place a Possessed Soldier and Marine Charlie in spots marked A and B. Place one 
 
 Marine charlie is actually also a semi-Possessed Soldier. He will attack the marines given the chance. When defeated he drops the chainsaw weapon token and regains his humanity:
 
-> As his red eyes fade humanity returns to the mans face. He speaks more calmly now and explains the facility studies long range teleportation. They had broken through and teleported living creatures hundreds of miles and back. "As soon as the first human went through creatures started coming back. It warped peoples minds, changed them, turned them crazy. We tried to sever the power but the command centre clearly has backup generators we weren't told about. The route to the command centre is left through the lab. The armoury has service duct access but its dangerous and he's pretty sure the creatures have been using the ducts to get around. Don't whatever you do open the teleporter doors.
+> As his red eyes fade humanity returns to the mans face. He speaks more calmly now and explains, "The facility studies long range teleportation. We had broken through; teleported living creatures hundreds of miles and back. But as soon as the first human went through 'creatures' started coming back. It warped peoples minds, changed their bodies, turned them crazy. We tried to sever the power but the command centre clearly has backup generators we weren't told about. The route to the command centre is left through the lab. The armoury has service duct access but its dangerous and he's pretty sure the creatures have been using the ducts to get around. Don't whatever you do open the teleporter doors.
 
 ## 2. Annex
 
@@ -47,17 +47,17 @@ Place 4 Possessed Soldiers in squares adjacent to A.
 
 > In the back corner the pens that used to hold the teleportation test subjects now brim with the same twisted beasts as the one you found in airlock control. It appears they are ex-personnel, some still wearing lab coats and ID cards over their twisted modifications. Just as you thank your luck that the containment field is on the backup generators something bursts out of a vent above and the rubble destroys the power relay.
 
-Place two Imps in any location in the room.
+The first Marine in the room suffers 3 damage from falling rubble. Place two Imps in any location in the room.
 
 ## 5. Armoury
 
-Close the door. Place the static rifle, grenade and med pack. The Marine player can choose to swap a weapon for the static rifle. The demon player can now choose whether or not the armoury door opens when a player attempts to use it. If not it still costs a movement point.
+> The Armoury is a dead end apart from a smallish service duct funnelling in the sound of a faulty air circulator. Along the walls are rows of empty gun racks. Either this facility is severely under-stocked or somebody went full Rambo in here. A med-pack, a pack of grenades and a solitary static rifle remain. The door lets out a worrying groan as it shuts behind you, but more worrying is that "faulty fan" noise seems to be getting closer.
 
-> The Armoury is a dead end apart from a smallish service duct funnelling in the sound of a faulty air circulator. Along the walls are rows of empty gun racks. Either this facility is severely under-stocked or somebody went full Rambo in here. A med pack a pack of grenades and a solitary static rifle remain. The door let's out a worrying groan as it shuts behind you but more worrying is that "faulty fan" noise seems to be getting closer.
+Close the door. Place the static rifle, grenade and med pack. The Marine player can choose to swap a weapon for the static rifle. The demon player can now choose whether or not the armoury door opens when a player attempts to use it. If not it still costs a movement point.
 
 ## 6. Service Ducts
 
-> The duct crackles with electricity. Clearly the backup power system was installed hastily and against UAC procedures. Whilst the flashes occasionally light the way one wrong move is going to result in a nasty jolt. Whats more you start to think you're not the only one in here...
+> The duct crackles with electricity. Clearly, the backup power system was installed hastily and against UAC procedures. Whilst the flashes occasionally light the way, one wrong move is going to result in a nasty jolt. Whats more, you start to think you're not the only one in here...
 
 Once per marine and per entry to the ducts the demon player decides if and when the following happen:
 
