@@ -50,3 +50,9 @@ Place 4 Possessed Soldiers in squares adjacent to A.
 > In the back corner the pens that used to hold the teleportation test subjects now brim with the same twisted beasts as the one you found in airlock control. It appears they are ex-personnel, some still wearing lab coats and ID cards over their twisted modifications. Just as you thank your luck that the containment field is on the backup generators something bursts out of a vent above and the rubble destroys the power relay.
 
 Place two Imps in any location in the room.
+
+## 5. Armoury 
+
+> The Armoury is a dead end apart from a smallish service duct funelling in the sound of a faulty air circulator. Along the walls are rows of empty gun racks. Either this facility is severely understocked or somebody went full rambo in here. A med pack a pack of grenades and a solitary static rifle remain. The door let's out a worrying groan as it shuts behind you but more worrying is that "faulty fan" noise seems to be getting closer. 
+
+Close the door. The demon player can now choose whether or not the armoury door opens when a player attempts to use it. If not it still costs a movement point.
