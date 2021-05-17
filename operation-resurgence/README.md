@@ -17,3 +17,5 @@ The game is played out using the 2016 Doom board game components and base rules.
 - The maps should not be revealed to the marines ahead of the game. Unless the obtain explicit intel in the mission brief all items, power ups and the layout itself should only be placed when a marine first gains line of sight to it.
 
 - Unless otherwise stated marines that die respawn the next round in the place they were at the start of the round. Use the teleporter token to make this position at the start of each round.
+
+- The spaces marked `?` contain anything the demon player chooses (that will fit). If the Marines are doing too well add some demons, if they're in bad shape add weapons or med packs.

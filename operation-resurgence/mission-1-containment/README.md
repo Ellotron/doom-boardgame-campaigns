@@ -6,12 +6,20 @@
 
 ## Objectives
 
+### Marines
+
 - Destroy or disable the communication
 - Detain any site personnel
+
+### Demons
+
+- 6 Frags
 
 ## Gear
 
 It is recommended that the Marines start with the Static Rifle, Combat Shotgun, Plasma Rifle and Burst Rifle, with Fire Support and Stealth Operative class cards.
+
+Demons each get 1 argent energy to start and at the end of each round.
 
 ## Layout - not known by the marines
 
@@ -67,3 +75,51 @@ Once per marine and per entry to the ducts the demon player decides if and when 
 
 - Two Imps appear in the ducts
 - The Marine player becomes stunned by electric
+
+## 7. Laboratory
+
+> The lab platform is raised no doubt to accommodate the spaghetti of cables feeding the humming machines and the large stasis pod in which a floating skull can barely be made out through the viscous fluid. On the bloody operating table a creature struggles violently against its restraints.
+
+Place a frag token on the spot marked A to represent the skull demon. Lay an Imp on the spot marked B. Only the Imp can attack/be attacked but add initiative cards for both the Imp and the skull. The demon player can swap the skull for a revenant when they choose:
+
+> The damaged containment field in the holding pens explodes. The power surge shorts out the entire lab and the stasis fluid is instantly evaporated revealing more than just a flayed skull.
+
+Room 4 and the connecting hall is now on fire. Place a threat token to indicate this. Any creature or player in that room or subsequently entering it takes 3 damage.
+
+## 8. Primary Translocation Pod
+
+> This is the hall housing the primary translocation experiment. Heavy fans swing in unison but there is still intense heat in the air. Consoles begin to flicker, generators whir up and an immense discharge of power can be heard behind the defaced door ahead.
+
+A Mancubus is teleported in to the spot marked A. Add its initiative card but only place it when the door is opened either by the Marine or the demon player on their turn.
+
+## 9. Operations
+
+> The operations room was clearly being used to prepare and recover materials for transport. A destroyed service elevator presumably used to access an upper storage level, now just a black hole in the ceiling. From it though floating green eyes begin to descend with ominous intent. On the adjacent wall however, some volatile fuel cells appear to be usefully pointing toward them.
+
+Place 2 Cacodemons in the spots marked A. In the spot marked B a Pinky is lying in wait. Add both their initiative cards as necessary. Place the Pinky only when a Marine gains line of sight.
+
+A Marine can choose to shoot the fuel cells (F). If either cell receives 3 or more damage both cells shoot horizontally to the opposite wall dealing 3 damage to each creature or player in their path.
+
+## 10. Command centre
+
+> It took a swift bypass to access the command centre but once in you see a haggard man in a wheelchair. The terminal he is next to is smashed but your suit identifies the lines feeding power to the system in a panel under the console. He pleads with you to leave it running as its the last thing supplying power to the facility.
+
+Place an objective token on A representing the power lines and one adjacent to it representing the man. A Marine can capture the man and/or sever the power by landing on the respective tokens.
+
+### If the power is severed
+
+> That backup generator was clearly propping up some vital system as moments after the console dies a explosion rocks the laboratory. On failsafe discharge you hear all the doors resetting to an open state and then all manor of commotion funnelling through them into operations.
+
+The Laboratory is now on fire. Place a threat token to indicate this. Any creature or player in that room or subsequently entering it takes 3 damage.
+
+Open all doors. Spawn any demons from the teleporters not already triggered.
+
+Place 2 Cacodemons and 3 Imps in Operations (9) in squares on or adjacent to those marked A.
+
+## End Game
+
+Keep spawning lesser demons each round from the telporters to keep things interesting. As soon as one Marine makes it back to airlock control (1):
+
+> The explosions must have triggered a cave-in. The airlock is completely blocked. I guess thats why they don't normally build facilities in 7 kilometer deep trenches. You doubt there's much time left before the whole thing implodes and the only thing left working is those infernal teleporters. Well they have to go somewhere... right?
+
+Spawn a baron of hell in the Auxillary Translocation Pod (3). Once both Marines reach either teleporter the mission is complete.
