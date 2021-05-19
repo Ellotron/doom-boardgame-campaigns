@@ -10,14 +10,19 @@
 
 - Destroy or disable the communication
 - Detain any site personnel
+- Get back to the airlock
 
 ### Demons
 
 - 6 Frags
 
+### Demon player hint
+
+If the Marines ever clear a room they might start gaming the system as they effectively have infinite goes until a demon appears. If that happens try spreading any fire that exists in to additional rooms or randomly spawn some demons from some imagined vents.
+
 ## Gear
 
-It is recommended that the Marines start with the Static Rifle, Combat Shotgun, Plasma Rifle and Burst Rifle, with Fire Support and Stealth Operative class cards.
+It is recommended that the Marines start with the Static Rifle, Combat Shotgun, Plasma Rifle and Burst Rifle, with Fire Support and Stealth Operative class cards and no squad cards.
 
 Demons each get 1 argent energy to start and at the end of each round. The demon player chooses their set of event cards.
 
@@ -98,15 +103,19 @@ A Mancubus is teleported in to the spot marked `A`. Add its initiative card but 
 
 Place 2 Cacodemons in the spots marked `A`. In the spot marked `B` a Pinky is lying in wait. Add both their initiative cards as necessary. Place the Pinky only when a Marine gains line of sight.
 
-A Marine can choose to shoot the fuel cells (`F`). If either cell receives 3 or more damage both cells shoot horizontally to the opposite wall dealing 3 damage to each creature or player in their path.
+A Marine can choose to shoot the fuel cells (`F`) Place threat markers to remind them. If either cell receives 3 or more damage both cells shoot horizontally to the opposite wall dealing 3 damage to each creature or player in their path.
+
+### Demon player hint
+
+The Marines don't know how many creatures are in that upper section so feel free to spawn a few more if the game needs balancing.
 
 ## 10. Command centre
 
-> It took a swift bypass to access the command centre, but once in you see a haggard man in a wheelchair. The terminal he is next to is smashed but your suit identifies the lines feeding power to the system in a panel under the console. He pleads with you to leave it running as its the last thing supplying power to the facility.
+> It took a swift bypass to access the command centre, but once in you see a haggard man in a wheelchair. The terminal he is next to is smashed but your suit identifies the lines feeding power to the system in a panel under the console. He pleads with you to leave it running as its the last thing supplying power to the facility. But you cant se any other way to complete the mission.
 
 Place an objective token on `A` representing the power lines and one adjacent to it representing the man. A Marine can capture the man and/or sever the power by landing on the respective tokens.
 
-### If the power is severed
+### When the power is severed
 
 > That backup generator was clearly propping up some vital system as moments after the console dies a explosion rocks the laboratory. On failsafe discharge you hear all the doors resetting to an open state and then all manor of commotion funnelling through them into operations.
 
@@ -118,7 +127,9 @@ Place 2 Cacodemons and 3 Imps in Operations (9) in squares on or adjacent to tho
 
 ## End Game
 
-Keep spawning lesser demons each round from the telporters to keep things interesting. As soon as one Marine makes it back to airlock control (`1`):
+You can either end the mission when the objective is completed and threat neutralised to shorten the game or:
+
+Keep spawning lesser demons each round from the telporters to keep things interesting until a Marine makes it back to airlock control (`1`):
 
 > The explosions must have triggered a cave-in. The airlock is completely blocked. I guess thats why they don't normally build facilities in 7 kilometer deep trenches. You doubt there's much time left before the whole thing implodes and the only thing left working is those infernal teleporters. Well, they have to go somewhere... right?
 
